@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Trained models & tokenizer (large files — share via Drive/HuggingFace Hub)
+outputs/
+*.pth
+*.h5
+*.model
+*.vocab
+
+# Data (never commit raw datasets)
+data/*.json
+data/*.txt
+data/*.csv
+data/scraped_*
+
+# Logs
+*.log
+training_log.csv
+
+# Windows absolute paths (from original code)
+E:\\*
