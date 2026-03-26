@@ -250,8 +250,13 @@ The system expects `answers` as a **list** (supporting multiple reference answer
 
 ## 👤 Author
 
-**Your Name**  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+## Saravanan.B
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6366f1?style=for-the-badge)](https://v0-portfolio-saravanan-b.vercel.app/)
+
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge)](mailto:Mrsaravananb@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/🔗%20Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/saravanan-b-46244b290)
 
 ---
 
